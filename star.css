@@ -1,0 +1,26 @@
+body {
+    background-color: #000000
+}
+h1 {
+    color: #ffc107;
+   margin-bottom: 10%;
+}
+#title {
+    color: #ffc107;
+}
+#card {
+    margin-bottom: 3%;
+}
+#marge {
+    margin-bottom: 4%;
+}
+#submit {
+padding-top: .1rem!important;
+padding-bottom: .2rem!important;
+ }
+li {
+    list-style-type: none;
+}
+#plan {
+    margin-left: 4%;
+}
